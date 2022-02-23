@@ -14,7 +14,8 @@
 
 
 4. After receiving answers, be appreciative and **discuss further if needed**
-5. Finally, **adjust** the formulation of your **question in response to useful feedback**
+5. Finally, **adjust** the formulation of your **question in response to useful feedback**<br>
+<br>
 
 If you still didn't get what we mean, check out the guide from Stackoverflow[^1]
 
